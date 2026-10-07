@@ -1,5 +1,3 @@
-public class Task3 {
-}
 import java.util.Scanner;
 
 public class Task3 {
